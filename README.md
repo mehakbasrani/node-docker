@@ -12,7 +12,7 @@ The app serves a basic "Welcome" message and is set up to run in a containerized
 
 - Docker installed on your system
 - Node.js
-- 
+  
 ## Setup Instructions
 
 ### Clone the Repository
