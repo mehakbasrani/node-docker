@@ -18,7 +18,7 @@ The app serves a basic "Welcome" message and is set up to run in a containerized
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/node-docker-app.git
+git clone https://github.com/mehakbasrani/node-docker-app.git
 cd node-docker-app
 
 ## build the docker image
